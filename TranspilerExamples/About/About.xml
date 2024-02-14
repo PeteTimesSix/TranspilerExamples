@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Transpiler Examples</name>
+	<author>PeteTimesSix</author>  
+	<packageId>PeteTimesSix.TranspilerExamples</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<url>https://github.com/PeteTimesSix/TranspilerExamples</url>
+	<modDependencies>
+      <li>
+        <packageId>brrainz.harmony</packageId>
+        <displayName>Harmony</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      </li>
+    </modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+	<description>
+Not actually a mod. Dont use this.
+	</description>
+</ModMetaData>
